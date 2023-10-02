@@ -10,7 +10,7 @@ const Hero = () => {
 
           <img src = {github} alt="github_logo" 
             className="w-28 h-12 object-contain" 
-            onClick={()=> window.open('https://google.com')}/>
+            onClick={()=> window.open('https://github.com/naveen9reddy/lets_create')}/>
             {/* <button
             type="button"
             className="black_btn"
